@@ -3,7 +3,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/batuhankaraman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="batuhankaraman" height="15" width="20" /></a>
+
 <a href="https://linkedin.com/in/batuhankaraman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="batuhankaraman" height="15" width="20" /></a>
 <a href="https://www.hackerrank.com/batuhankaraman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="batuhankaraman" height="15" width="20" /></a>
 </p>
